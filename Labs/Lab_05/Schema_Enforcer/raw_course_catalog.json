@@ -1,0 +1,54 @@
+[
+   {
+      "course_id": "DS2002",
+      "section": "001",
+      "title": "Data Science Systems",
+      "level": 200,
+      "instructors": [
+         {
+            "name": "Austin Rivera",
+            "role": "Primary"
+         },
+         {
+            "name": "Heywood Williams-Tracy",
+            "role": "TA"
+         }
+      ]
+   },
+   {
+      "course_id": "DS2004",
+      "section": "001",
+      "title": "Data Ethics",
+      "level": 200,
+      "instructors": [
+         {
+            "name": "Emanuel Moss, PhD",
+            "role": "Primary"
+         }
+      ]
+   },
+   {
+      "course_id": "CHEM4410",
+      "section": "001",
+      "title": "Biochemistry",
+      "level": 400,
+      "instructors": [
+         {
+            "name": "Linda Columbus",
+            "role": "Primary"
+         }
+      ]
+   },
+   {
+      "course_id": "CHEM4320",
+      "section": "001",
+      "title": "Inorganic Chemistry",
+      "level": 400,
+      "instructors": [
+         {
+            "name": "Charles Machaan",
+            "role": "Primary"
+         }
+      ]
+   }
+]
