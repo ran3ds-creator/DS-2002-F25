@@ -1,0 +1,29 @@
+--- Running Test Pipeline (Built-in Test Modes) ---
+Starting in Test Mode
+Success: wrote portfolio to test_card_portfolio.csv
+Starting in Test Mode
+=== Portfolio Summary ===
+Total Portfolio Value: $326.55
+Most Valuable Card: UNKNOWN (ID: base0-4) - $250.75
+Test complete.
+_Set
+--- Adding New Card Set ---
+TCG Card Set ID (e.g., base1, base4): base1
+Fetching data for set: base1...
+--- Adding New Card Set ---
+TCG Card Set ID (e.g., base1, base4): base4
+Fetching data for set: base4..
+--- Adding New Card Set ---
+TCG Card Set ID (e.g., base1, base4): base4
+Fetching data for set: base4...
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+Do you want to refresh ALL existing card sets? (yes/no)
+no
+Running the full data pipeline...
+Step 1: Making the portfolio file now...
+Success: wrote portfolio to card_portfolio.csv
+Step 2: Creating the summary report...
+=== Portfolio Summary ===
+Total Portfolio Value: $5,679.13
+Most Valuable Card: UNKNOWN (ID: base1-4) - $458.29
+All done! The pipeline finished successfully.
